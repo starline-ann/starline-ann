@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @starline-ann
 - 👀 I’m interested in computer vision
-- 🌱 I’m currently learning deep learning
-- 💞️ I’m looking to collaborate on computer vision projects
+- 🌱 I’m currently learning algorithms and deep learning
+- 💞️ I’m looking to collaborate in computer vision projects
 - 📫 How to reach me starline-ann@mail.ru
 
 "Study hard, practice-and good luck!"
